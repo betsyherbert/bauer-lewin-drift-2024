@@ -2,6 +2,8 @@
 
 Minimal code for network model in Bauer, Lewin et al. (preprint) - _Sensory experience steers representational drift in mouse visual cortex_.
 
+Code tested on Python 3.12.1.
+
 This repository contains the following files:
 
 ### figs_setup
@@ -35,5 +37,3 @@ This repository contains the following files:
 
 ### plots.mplstyle
 - _Matplotlib style sheet_
-
-Code has been tested on Python 3.12.1.
