@@ -35,3 +35,5 @@ This repository contains the following files:
 
 ### plots.mplstyle
 - _Matplotlib style sheet_
+
+Code has been tested on Python 3.12.1.
