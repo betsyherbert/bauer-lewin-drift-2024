@@ -2,7 +2,8 @@
 
 Code for network model in Bauer, Lewin et al. (preprint) - _Sensory experience steers representational drift in mouse visual cortex_.
 
-### figs_setup: _Figures illustrating basic aspects of the model setup_
+### figs_setup
+_Figures illustrating basic aspects of the model setup_
 - Fig 3b
 - Supp Figs 3a, b, c
 
