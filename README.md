@@ -24,7 +24,11 @@ This repository contains the following files:
 ### figs_recovery
 - _Figures relating to the behaviour of the model after deprivation has ended_
 - Fig 3i
-- Supp Fig 3k 
+- Supp Fig 3k
+
+### figs_rebuttal
+- _Figures added as response to reviewers' feedback_
+- Figs 4f, g and h
 
 ### fig_3h
 - _Code to generate matrix in Fig 3h_
